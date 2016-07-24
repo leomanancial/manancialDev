@@ -1,31 +1,8 @@
-/* .themify_builder_2366_row.module_row_0 Style */
-.themify_builder_2366_row.module_row_0.module_row {
-	background-image: url(http://localhost:8888/wp-content/uploads/2016/07/28379926616_3cd83a22c6_k-300x225.jpg);
-	background-color: #259e99;
-	color: #ffffff;
-	padding-top : 8%;
-	padding-bottom : 5%
-}
-.themify_builder_2366_row.module_row_0.module_row a {
-	color: #ffffff
-}
-.themify_builder_2366_row.module_row_0.module_row h1 {
-	color: #ffffff
-}
-.themify_builder_2366_row.module_row_0.module_row h2 {
-	color: #ffffff
-}
-.themify_builder_2366_row.module_row_0.module_row h3:not(.module-title) {
-	color: #ffffff
-}
-.themify_builder_2366_row.module_row_0.module_row h4 {
-	color: #ffffff
-}
-.themify_builder_2366_row.module_row_0.module_row h5 {
-	color: #ffffff
-}
-.themify_builder_2366_row.module_row_0.module_row h6 {
-	color: #ffffff
+/* .module_row_0 .module_column_0.tb_2366_column Style */
+.module_row_0 .module_column_0.tb_2366_column.module_column {
+	background-image: url(http://localhost:8888/wp-content/uploads/2016/07/aslan-2.jpg);
+	background-color: #f2f2f2;
+	background-color: rgba(242,242,242, 0.25)
 }
 
 .themify_builder .text-2366-0-0-1.module-text { color: #ffffff; padding-bottom: 2%;  } 
